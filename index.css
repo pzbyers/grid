@@ -19,14 +19,6 @@ body {
     grid-auto-columns: 0.4fr;
 
     gap: 5px;
-
-    grid-template-areas: 
-        "a"
-        "b"
-        "c"
-        "d"
-        "e"
-        "f";
 }
 
 .grid .grid__item > img {
